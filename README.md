@@ -12,8 +12,8 @@ A program for RF heating simulation in biological tissue. Given an arbitrary ele
 1. Download the code and enter its folder:
 
    ```
-   git clone https://github.com/TZ387/ProjectRF.git
-   cd ProjectRF
+   git clone https://github.com/TZ387/ProjectRF.jl.git
+   cd ProjectRF.jl
    ```
 
 2. Start Julia in this folder, either normally with `julia`, or with `julia --threads auto` to use all CPU threads ([Enabling multiple threads](#enabling-multiple-threads)).
